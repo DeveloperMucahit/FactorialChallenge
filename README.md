@@ -11,8 +11,9 @@ node factorialChallenge.js
 ```
 
 ## Example Outputs:
-
+```sh
 Input: 5 -> Output: 120
 Input: 0 -> Output: 1
 Input: -5-> Output: Plase enter zero or greater!
 Input: 7 -> Output: 5040
+```
